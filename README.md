@@ -22,7 +22,7 @@ colors are as seen below
 ![no witty thing to say here](https://cdn.discordapp.com/attachments/973196031158280202/973209632044634112/unknown.png)
 
 copy paste box
-```ansi
+```ansi
 [30m ass black
 [31mfire red
 [32mshitty green
@@ -48,7 +48,7 @@ you can do that in the same was as above but with numbers in range 40-47
 ![sex](https://media.discordapp.net/attachments/973196031158280202/973209451437883422/unknown.png)
 
 another copy paste box
-```ansi
+```ansi
 [40mBlack[0m
 [41mOrange[0m
 [42mGrey[0m

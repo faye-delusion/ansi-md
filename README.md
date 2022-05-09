@@ -23,22 +23,22 @@ colors are as seen below
 
 copy paste box
 ```ansi
-[30m ass black
-[31mfire red
-[32mshitty green
-[33mnice orange
-[34mepic blue
-[35mpoggers pink
-[36mgood green
-[37mfat white
-[30;1mass black 2
-[31;1mfire red 2
-[32;1mshitty green 2
-[33;1mnice orange 2
-[34;1mepic blue 2
-[35;1mpoggers pink 2
-[36;1mgood green 2 
-[37;1mfat white 2
+[30m ass black[0m
+[31mfire red[0m
+[32mshitty green[0m
+[33mnice orange[0m
+[34mepic blue[0m
+[35mpoggers pink[0m
+[36mgood green[0m
+[37mfat white[0m
+[30;1mass black 2[0m
+[31;1mfire red 2[0m
+[32;1mshitty green 2[0m
+[33;1mnice orange 2[0m
+[34;1mepic blue 2[0m
+[35;1mpoggers pink 2[0m
+[36;1mgood green 2[0m
+[37;1mfat white 2[0m
 ```
 
 you can also use colored background text, but the options are a bit shite to be honest
@@ -57,7 +57,6 @@ another copy paste box
 [45mPurple[0m
 [46mEven Lighter Grey[0m
 [47mWhite[0m
-[0m
 ```
 
 colored text combined with the █ (\u2588) can be used to make simple ANSI art
@@ -84,6 +83,18 @@ sex
 ```ansi
 not underlined text
 [4munderlined text[0m
+```
+
+## multiple on same line
+
+to do multiple different text formats on the same line you have to put a `[0m` between each block
+
+example
+
+![this is a good example](https://cdn.discordapp.com/attachments/973196031158280202/973215877409419345/unknown.png)
+
+```ansi
+[31mRED TEXT [0m[34mBLUE TEXT [0m[32mGREEN TEXT [0m[33mYELLOW TEXT[0m
 ```
 
 ## last but not least

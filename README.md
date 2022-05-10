@@ -59,7 +59,7 @@ another copy paste box
 [47mWhite[0m
 ```
 
-colored text combined with the █ (\u2588) can be used to make simple ANSI art
+colored text combined with the █ (\u2588) character can be used to make simple ANSI art
 
 ## alt formatting
 
@@ -69,14 +69,14 @@ text can be made bold through adding `[1m` in front of the text, though the bol
 
 ![case in point 2](https://cdn.discordapp.com/attachments/973196031158280202/973211330062479400/unknown.png)
 
-the same thing can be done for underlining text, but with `[4m` instead of `[1m`
-
-![the underline](https://cdn.discordapp.com/attachments/973196031158280202/973211773442355230/unknown.png)
-
 ```ansi
 sex
 [1msex[0m
 ```
+
+the same thing can be done for underlining text, but with `[4m` instead of `[1m`
+
+![the underline](https://cdn.discordapp.com/attachments/973196031158280202/973211773442355230/unknown.png)
 
 ![the underline but not code](https://cdn.discordapp.com/attachments/973196031158280202/973211833781596280/unknown.png)
 
